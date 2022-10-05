@@ -1,4 +1,3 @@
-import java.util.*;
 public class swapalternate {
     public static void printArray(int arr[],int size){
         for(int i=0;i<arr.length;i++){
